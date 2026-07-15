@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://api.nekos.best/api/v2/neko/5836a9b4-b467-4228-aa92-f04bf4a0058b.png" alt="NyaoPic Logo" width="180" style="border-radius: 50%;">
+  <img src="https://www.dropbox.com/scl/fi/6aioog1mu17276k0zygsl/NyaoPic.png?rlkey=zas4y76g7z5dnry3oxdwebara&st=0do5jy7f&dl=1" alt="NyaoPic Logo" width="180" style="border-radius: 50%;">
 
   # NyaoLabs-Pic
 
@@ -16,10 +16,18 @@
 
 ---
 
+### 🧩 Main Requirements
+* `disnake` - 2.12.0 or above
+* `python-dotenv` - 1.2.2 or above
+* `aiohttp` - 3.14.1 or above
+
+Other requrements can be found in `requirements.txt`
+
+---
 ### 🛠️ Installation & Setup
 ```text
 1. Clone the repository:
-   $ git clone [https://github.com/yourusername/NyaoPic.git](https://github.com/yourusername/NyaoPic.git)
+   $ git clone [https://github.com/PersikPrime/NyaoPic.git](https://github.com/PersikPrime/NyaoPic.git)
    $ cd NyaoPic
 
 2. Create a virtual environment & install dependencies:
@@ -32,3 +40,17 @@
 
 4. Run the Bot:
    $ python3 main.py
+```
+
+### 🌸 Project Structure
+```text
+NyaoPic/
+├── cogs/                 # Modular command folders (Cogs)
+│   ├── general.py        # Base commands
+│   └── nekosend.py       # Neko-sending command integration
+├── .env                  # Private bot tokens (git-ignored)
+├── .env.example          # Environment template for others
+├── .gitignore            # Tells git what to ignore
+├── main.py               # Main bot entry point & cog loader
+└── requirements.txt      # List of dependencies
+```
