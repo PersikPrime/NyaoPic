@@ -25,7 +25,7 @@
 * `python-dotenv` - 1.2.2 or above
 * `aiohttp` - 3.14.1 or above
 
-Other requrements can be found in `requirements.txt`
+Other requirements can be found in `requirements.txt`
 
 ---
 ### 🛠️ Installation & Setup
