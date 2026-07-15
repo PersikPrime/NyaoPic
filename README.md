@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.dropbox.com/scl/fi/6aioog1mu17276k0zygsl/NyaoPic.png?rlkey=zas4y76g7z5dnry3oxdwebara&st=0do5jy7f&dl=1" alt="NyaoPic Logo" width="180" style="border-radius: 50%;">
+  <img src="https://cdn.discordapp.com/attachments/1526887986262704149/1526888015283093514/NyaoPic.png?ex=6a58a8c7&is=6a575747&hm=42e2a1b0fd88ab5000517876cf8fc973977674040f5e034174bddaef1da48789" alt="NyaoPic Logo" width="180" style="border-radius: 50%;">
 
   # NyaoLabs-Pic
 
@@ -46,7 +46,9 @@ Other requrements can be found in `requirements.txt`
 ```text
 NyaoPic/
 ├── cogs/                 # Modular command folders (Cogs)
-│   ├── general.py        # Base commands
+│   ├── waifusend.py      # Waifu-sending command integration
+│   ├── kitsunesend.py    # Kitsune-sending command integration
+│   ├── helpsend.py       # Help-sending command
 │   └── nekosend.py       # Neko-sending command integration
 ├── .env                  # Private bot tokens (git-ignored)
 ├── .env.example          # Environment template for others
