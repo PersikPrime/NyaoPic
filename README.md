@@ -7,6 +7,8 @@
 </div>
 
 ---
+🐾 Use this link to invite original NyaoPic to your server! - (Click)[https://discord.com/oauth2/authorize?client_id=1526687219396644994&permissions=0&integration_type=0&scope=bot]
+---
 
 ### 🐾 Features
 * `Slash Commands` — Built using modern, fast Discord Slash Commands (`/neko`).
