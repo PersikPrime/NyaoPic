@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1526887986262704149/1526888721658544128/NyaoPicGithub.png?ex=6a58a96f&is=6a5757ef&hm=adeaab73fa9e350aea0f39bc75aa5b6134568592f55cfdcd979c77de5806fee8" alt="NyaoPic Logo" width="180" style="border-radius: 50%;">
+  <img src="https://cdn.discordapp.com/attachments/1526887986262704149/1526888721658544128/NyaoPicGithub.png?ex=6a59faef&is=6a58a96f&hm=960c34fce9054e0ac682ef3300219c04c5ce38da80ae2612b6d16500a34ae666&" alt="NyaoPic Logo" width="180" style="border-radius: 50%;">
 
   # NyaoLabs-Pic
 
