@@ -31,7 +31,7 @@ Other requirements can be found in `requirements.txt`
 ### 🛠️ Installation & Setup
 ```text
 1. Clone the repository:
-   $ git clone [https://github.com/PersikPrime/NyaoPic.git](https://github.com/PersikPrime/NyaoPic.git)
+   $ git clone https://github.com/PersikPrime/NyaoPic.git
    $ cd NyaoPic
 
 2. Create a virtual environment & install dependencies:
