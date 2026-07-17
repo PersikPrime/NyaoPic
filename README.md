@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1526887986262704149/1526888721658544128/NyaoPicGithub.png?ex=6a59faef&is=6a58a96f&hm=960c34fce9054e0ac682ef3300219c04c5ce38da80ae2612b6d16500a34ae666&" alt="NyaoPic Logo" width="180" style="border-radius: 50%;">
+  <img width="512" height="512" alt="NyaoPicGithub" src="https://github.com/user-attachments/assets/b55ccdca-ea93-4552-91c8-012de351d1f2" />
+
 
   # NyaoLabs-Pic
 
