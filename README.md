@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="512" height="512" alt="NyaoPicGithub" src="https://github.com/user-attachments/assets/b55ccdca-ea93-4552-91c8-012de351d1f2" />
+  <img width="256" height="256" alt="NyaoPicGithub" src="https://github.com/user-attachments/assets/b55ccdca-ea93-4552-91c8-012de351d1f2" />
 
 
   # NyaoLabs-Pic
