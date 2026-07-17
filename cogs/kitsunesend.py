@@ -13,7 +13,7 @@ class KitsuneSend(commands.Cog):
         api_url = "https://nekos.best/api/v2/kitsune"
         
         headers = {
-            "User-Agent": "NyaoPicBot/1.0 (Contact: Discord Bot)",
+            "User-Agent": "NyaoPic-OpenSource/1.1 (Contact: INSERT YOUR CONTACT HERE)",
             "Accept": "application/json"
         }
     
